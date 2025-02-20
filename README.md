@@ -2,6 +2,7 @@ EchoTalk 🎙️ - Your Smart Meeting Assistant
 <div align="center">
   <img src="Demo.gif" alt="EchoTalk Demo" width="400" />
 </div>
+
 🌟 Overview
 EchoTalk is a cutting-edge voice assistant designed specifically for professionals who want to stay engaged in meetings while capturing essential information. Using advanced voice processing and natural language understanding, EchoTalk automatically converts conversations into actionable insights.
 🚧 Challenges Faced
@@ -134,6 +135,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - React Native Community
 - Expo Team
 - All our amazing contributors
+
+###Demo Video
+- Drive Link: https://drive.google.com/file/d/1404lu-_hkVrlYvwImKqYdGB2zJjB7p5K/view?usp=drive_link
 
 ## 📞 Support
 
