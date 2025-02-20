@@ -1,16 +1,18 @@
-EchoTalk 🎙️ - Your Smart Meeting Assistant
+# EchoTalk 🎙️ - Your Smart Meeting Assistant
 <div align="center">
   <img src="Demo.gif" alt="EchoTalk Demo" width="400" />
 </div>
 
 
-###Demo Video
+### Demo Video
 - Drive Link: https://drive.google.com/file/d/1404lu-_hkVrlYvwImKqYdGB2zJjB7p5K/view?usp=drive_link
 
 🌟 Overview
 EchoTalk is a cutting-edge voice assistant designed specifically for professionals who want to stay engaged in meetings while capturing essential information. Using advanced voice processing and natural language understanding, EchoTalk automatically converts conversations into actionable insights.
+
 🚧 Challenges Faced
 During the development of EchoTalk, we encountered and overcame several significant challenges:
+
 1. API Availability and Costs
 
 Limited availability of free Voice-to-Text APIs
@@ -37,13 +39,14 @@ Maintaining uniform UI/UX across different devices
 
 ## 🛠 Tech Magic Stack
 
-mermaid
+```mermaid
 graph LR
     A[📱 React Native] --> B[🎙 Google Speech API]
     B --> C[🧠 GPT-4]
     C --> D[📡 Node.js]
     D --> E[🔥 Firebase]
     E --> F[📅 Google Calendar]
+```
 
 ## ✨ Features
 
