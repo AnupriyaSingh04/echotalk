@@ -1,12 +1,34 @@
-# EchoTalk 🎙️ - Your Smart Meeting Assistant
-
+EchoTalk 🎙️ - Your Smart Meeting Assistant
 <div align="center">
-  <img src="Demo.gif" alt="EchoTalk Demo" />
+  <img src="Demo.gif" alt="EchoTalk Demo" width="400" />
 </div>
-
-## 🌟 Overview
-
+🌟 Overview
 EchoTalk is a cutting-edge voice assistant designed specifically for professionals who want to stay engaged in meetings while capturing essential information. Using advanced voice processing and natural language understanding, EchoTalk automatically converts conversations into actionable insights.
+🚧 Challenges Faced
+During the development of EchoTalk, we encountered and overcame several significant challenges:
+1. API Availability and Costs
+
+Limited availability of free Voice-to-Text APIs
+High costs associated with commercial speech recognition services
+Need to implement efficient API usage to minimize costs
+
+2. Voice Processing Complexity
+
+Handling different accents and speech patterns
+Managing background noise in recordings
+Achieving accurate real-time transcription
+
+3. Performance Optimization
+
+Balancing processing speed with battery consumption
+Optimizing memory usage during long recording sessions
+Managing concurrent API calls efficiently
+
+4. Cross-Platform Compatibility
+
+Ensuring consistent audio quality across iOS and Android
+Dealing with platform-specific permission requirements
+Maintaining uniform UI/UX across different devices
 
 ## ✨ Features
 
