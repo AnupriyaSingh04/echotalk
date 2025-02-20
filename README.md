@@ -151,5 +151,5 @@ Having issues? Let us know!
 ---
 
 <div align="center">
-  Made with ❤️ by the EchoTalk Team
+  Made with ❤️ by the Anupriya Singh
 </div>
