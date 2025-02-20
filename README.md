@@ -43,8 +43,7 @@ graph LR
     B --> C[🧠 GPT-4]
     C --> D[📡 Node.js]
     D --> E[🔥 Firebase]
-    E --> F[📅 Google Calendar]
-
+    E --> F[📅 Google Calendar]
 
 ## ✨ Features
 
