@@ -5,7 +5,7 @@
 
 
 ### Demo Video
-- Drive Link: https://drive.google.com/file/d/1404lu-_hkVrlYvwImKqYdGB2zJjB7p5K/view?usp=drive_link
+- Drive Link: https://drive.google.com/file/d/1404lu-_hkVrlYvwImKqYdGB2zJjB7p5K/view?usp=sharing
 
 🌟 Overview
 EchoTalk is a cutting-edge voice assistant designed specifically for professionals who want to stay engaged in meetings while capturing essential information. Using advanced voice processing and natural language understanding, EchoTalk automatically converts conversations into actionable insights.
