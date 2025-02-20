@@ -35,6 +35,17 @@ Ensuring consistent audio quality across iOS and Android
 Dealing with platform-specific permission requirements
 Maintaining uniform UI/UX across different devices
 
+## 🛠 Tech Magic Stack
+
+mermaid
+graph LR
+    A[📱 React Native] --> B[🎙 Google Speech API]
+    B --> C[🧠 GPT-4]
+    C --> D[📡 Node.js]
+    D --> E[🔥 Firebase]
+    E --> F[📅 Google Calendar]
+
+
 ## ✨ Features
 
 ### 🎤 Intelligent Voice Processing
