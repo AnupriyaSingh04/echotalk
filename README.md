@@ -91,7 +91,7 @@ graph LR
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AnupriyaSingh04/echo-talk.git
+git clone https://github.com/AnupriyaSingh04/echotalk.git
 cd echo-talk
 ```
 
@@ -156,8 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Support
 
 Having issues? Let us know!
-- 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echo-talk/issues)
-- 💡 [Request a feature](https://github.com/AnupriyaSingh04/echo-talk/issues)
+- 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echotalk/issues)
+- 💡 [Request a feature](https://github.com/AnupriyaSingh04/echotalk/issues)
 - 📧 Email at: anupriyasingh534@gmail.com
   
 
