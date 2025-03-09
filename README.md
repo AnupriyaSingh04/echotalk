@@ -1,52 +1,12 @@
 # EchoTalk 🎙️ - Your Smart Meeting Assistant
+
 <div align="center">
-  <img src="Demo.gif" alt="EchoTalk Demo" width="400" />
+  <img src="/api/placeholder/800/400" alt="EchoTalk Banner" />
 </div>
 
+## 🌟 Overview
 
-### Demo Video
-- Drive Link: https://drive.google.com/file/d/1404lu-_hkVrlYvwImKqYdGB2zJjB7p5K/view?usp=sharing
-
-🌟 Overview
 EchoTalk is a cutting-edge voice assistant designed specifically for professionals who want to stay engaged in meetings while capturing essential information. Using advanced voice processing and natural language understanding, EchoTalk automatically converts conversations into actionable insights.
-
-🚧 Challenges Faced
-During the development of EchoTalk, we encountered and overcame several significant challenges:
-
-1. API Availability and Costs
-
-Limited availability of free Voice-to-Text APIs
-High costs associated with commercial speech recognition services
-Need to implement efficient API usage to minimize costs
-
-2. Voice Processing Complexity
-
-Handling different accents and speech patterns
-Managing background noise in recordings
-Achieving accurate real-time transcription
-
-3. Performance Optimization
-
-Balancing processing speed with battery consumption
-Optimizing memory usage during long recording sessions
-Managing concurrent API calls efficiently
-
-4. Cross-Platform Compatibility
-
-Ensuring consistent audio quality across iOS and Android
-Dealing with platform-specific permission requirements
-Maintaining uniform UI/UX across different devices
-
-## 🛠 Tech Magic Stack
-
-```mermaid
-graph LR
-    A[📱 React Native] --> B[🎙 Google Speech API]
-    B --> C[🧠 GPT-4]
-    C --> D[📡 Node.js]
-    D --> E[🔥 Firebase]
-    E --> F[📅 Google Calendar]
-```
 
 ## ✨ Features
 
@@ -91,7 +51,7 @@ graph LR
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AnupriyaSingh04/echotalk.git
+git clone https://github.com/AnupriyaSingh04/echo-talk.git
 cd echo-talk
 ```
 
@@ -156,13 +116,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Support
 
 Having issues? Let us know!
-- 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echotalk/issues)
-- 💡 [Request a feature](https://github.com/AnupriyaSingh04/echotalk/issues)
+- 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echo-talk/issues)
+- 💡 [Request a feature](https://github.com/AnupriyaSingh04/echo-talk/issues)
 - 📧 Email at: anupriyasingh534@gmail.com
   
 
 ---
 
 <div align="center">
-  Made with ❤️ by Anupriya Singh
+  Made with ❤️ by the EchoTalk Team
 </div>
