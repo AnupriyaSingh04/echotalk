@@ -1,7 +1,7 @@
 # EchoTalk 🎙️ - Your Smart Meeting Assistant
 
 <div align="center">
-  <img src="Demo.gif" alt="EchoTalk Banner" />
+  <img src="Demo.gif" alt="EchoTalk Banner" height="200" />
 </div>
 
 ## 🌟 Overview
